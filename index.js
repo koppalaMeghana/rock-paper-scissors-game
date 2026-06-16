@@ -1,4 +1,4 @@
-const buttons = document.querySelectorAll("button");
+const buttons = document.querySelectorAll(".game-btn");
 const resultEl = document.getElementById("result");
 const resetBtn = document.getElementById("reset-btn");
 
